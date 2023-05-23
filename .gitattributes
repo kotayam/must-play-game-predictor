@@ -1,2 +1,7 @@
 dataset/metacritic_game_info.csv filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
 dataset/metacritic_game_user_comments.csv filter=lfs diff=lfs merge=lfs -text
+=======
+dataset/metacritic_game_user_comments.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+>>>>>>> 08c928d (lfs track only csv)
