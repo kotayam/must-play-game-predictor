@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # link to Medium Post:
 # https://medium.com/@kotayama/predicting-must-play-games-from-user-reviews-ff30904b5d95?source=friends_link&sk=5f7cd885840a4c1d4f61d812b7d174c3
 
@@ -275,12 +274,3 @@ if (result > 0.49) {
 } else {
   print("this game is not a Must Play game.")
 }
-
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:490896253079b6cf1daeb03777a067375dc113a394eba4853c0e9bb0517e5066
-size 8126
-<<<<<<< HEAD
->>>>>>> 75e4252 (code updated)
-=======
->>>>>>> 43d3984 (Updated code)
